@@ -14,11 +14,22 @@
     "tsv",
     "cli",
     "data",
-    "zero-dependencies"
+    "zero-dependencies",
+    "csv to json",
+    "json to csv",
+    "convert csv",
+    "csv json converter",
+    "csvkit alternative",
+    "rfc 4180",
+    "parse csv",
+    "tsv to json",
+    "zero dependencies"
   ],
   "author": "Rushabh Shah",
   "license": "MIT",
-  "engines": { "node": ">=14" },
+  "engines": {
+    "node": ">=14"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Rushabh5000/csv2json"

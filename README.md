@@ -1,5 +1,8 @@
 # csv2json
 
+![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen) ![Node](https://img.shields.io/badge/node-%3E%3D14-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+
+
 Convert between CSV and JSON in **both directions**, with automatic type inference and a proper RFC 4180 parser (quoted fields, escaped quotes, embedded newlines). Zero dependencies.
 
 The companion to [`csv-peek`](https://github.com/Rushabh5000/csv-peek) (which previews CSVs). Unlike `csvkit` (Python) or paste-it-here websites, this runs locally and never uploads your data.
@@ -96,3 +99,19 @@ When converting **JSON → CSV**, nested objects/arrays in a cell are serialized
 ## License
 
 MIT
+
+---
+
+## Keywords
+
+`csv to json` · `json to csv` · `convert csv` · `csv json converter` · `csvkit alternative` · `rfc 4180` · `parse csv` · `tsv to json` · `zero dependencies` · `cli`
+
+---
+
+<div align="center">
+
+**Built to solve, shared to help — Rushabh Shah 🛠️✨**
+
+<sub>One of 40+ zero-dependency developer CLI tools — no <code>node_modules</code>, ever.</sub>
+
+</div>
