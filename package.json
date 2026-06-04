@@ -1,9 +1,9 @@
 {
-  "name": "csv2json",
+  "name": "@lowdep/csv2json",
   "version": "1.0.0",
   "description": "Convert between CSV and JSON in both directions with type inference — RFC 4180 parser, zero dependencies",
   "bin": {
-    "csv2json": "./bin/csv2json.js"
+    "csv2json": "bin/csv2json.js"
   },
   "keywords": [
     "csv",
@@ -30,8 +30,18 @@
   "engines": {
     "node": ">=14"
   },
+  "files": [
+    "bin/"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rushabh5000/csv2json"
+    "url": "git+https://github.com/Rushabh5000/csv2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rushabh5000/csv2json/issues"
+  },
+  "homepage": "https://github.com/Rushabh5000/csv2json#readme",
+  "publishConfig": {
+    "access": "public"
   }
 }
