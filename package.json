@@ -1,0 +1,26 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "Convert between CSV and JSON in both directions with type inference — RFC 4180 parser, zero dependencies",
+  "bin": {
+    "csv2json": "./bin/csv2json.js"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "convert",
+    "csv2json",
+    "json2csv",
+    "tsv",
+    "cli",
+    "data",
+    "zero-dependencies"
+  ],
+  "author": "Rushabh Shah",
+  "license": "MIT",
+  "engines": { "node": ">=14" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rushabh5000/csv2json"
+  }
+}
